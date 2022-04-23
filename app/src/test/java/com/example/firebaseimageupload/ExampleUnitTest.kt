@@ -1,4 +1,4 @@
-package com.example.collage
+package com.example.firebaseimageupload
 
 import org.junit.Test
 
